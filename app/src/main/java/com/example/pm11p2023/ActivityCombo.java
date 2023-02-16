@@ -10,5 +10,7 @@ public class ActivityCombo extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_combo);
+
+        // Hola esto es un cambio //
     }
 }
