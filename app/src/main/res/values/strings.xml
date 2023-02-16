@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PM11P2023</string>
+    <string name="Spinner">Uso de Spinner</string>
+
 </resources>
